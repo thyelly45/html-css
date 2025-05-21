@@ -1,0 +1,25 @@
+.boneco{
+    left: 650px;
+    top: 200px;
+    position: absolute;
+}
+body{
+    position: relative;
+}
+.chapeu{
+    left: 707px;
+    top: 212px;
+    position: absolute;
+}
+h3{
+    color: cornflowerblue;
+    text-align: center;
+ }
+ .caixa{
+    background-color: darksalmon;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    top: 250px;
+    left: 900px;
+ }
